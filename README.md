@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats
 -->
 <a href="https://github.com/cleiltonoliveira/cleiltonoliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cleiltonoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=cleiltonoliveira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/cleiltonoliveira/cleiltonoliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleiltonoliveira&layout=compact&langs_count=7&theme=onedark" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleiltonoliveira&layout=compact&langs_count=10&theme=onedark&exclude_repo=angular-course" />
 </a>
