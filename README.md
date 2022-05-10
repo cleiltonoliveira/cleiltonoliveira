@@ -22,5 +22,5 @@ https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=cleiltonoliveira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/cleiltonoliveira/cleiltonoliveira">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleiltonoliveira&layout=compact&langs_count=10&theme=onedark&exclude_repo=angular-course" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleiltonoliveira&layout=compact&langs_count=10&theme=onedark&exclude_repo=" />
 </a>
